@@ -5,7 +5,7 @@ The project aims to forecast income levels above $50K based on data from the UCI
 
 ## Files
 
-The notebook `Pred_Cenus_AI.ipynb` contains all code for data analysis and preprocessing and modeling and evaluation steps. The file `requirements.txt` contains Python package dependencies which are optional.
+The notebook `Pred_Cenus_AI.ipynb` contains all code for data analysis and preprocessing and modeling and evaluation steps.
 
 ## Dataset
 
